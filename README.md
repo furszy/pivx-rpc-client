@@ -1,0 +1,1 @@
+Basic rpc client for PIVX core node in java.
